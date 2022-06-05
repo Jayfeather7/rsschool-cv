@@ -1,12 +1,12 @@
 # **Majestic CV**
 
-## Vladimir Gulyavtsev
+## **Vladimir Gulyavtsev**
 
 > *Contact info*
 > * E-Mail: vladimir.gul.74@gmail.com
 > * Telegram: @JayfeatherMe
- * RS School Discord: @Jayfeather7 
-
+> * RS School Discord: @Jayfeather7 
+-    
     ### *General info*
     19 years old, currently studying Foreign Languages at Higher School of Economics in Moscow as a major and programming/web-technologies as a minor 
 
