@@ -3,11 +3,11 @@
 ## Vladimir Gulyavtsev
 
  > *Contact info*
- > * E-Mail: vladimir.gul.74@gmail.com
+ > * E-Mail: [](https://vladimir.gul.74@gmail.com)
  > * Telegram: @JayfeatherMe
  > * RS School Discord: @Jayfeather7 
 
- ### *General info*
+### *General info*
  19 years old, currently studying Foreign Languages at Higher School of Economics in Moscow as a major and programming/web-technologies as a minor.
  
  No front- or back-end-related professional experience at my disposal, only translation and localization projects.
@@ -21,7 +21,7 @@
     
  * Familiar with sound editing via Sony Vegas and Sound Forge
 
-    ### *Code sample*
+### *Code sample*
      ```
      days = int(input())
      cafe = []
@@ -31,12 +31,12 @@
      for i in range(days):
         print(cafe[i][req_hour])
      ```
-    ### *Related experience*
-     * Musical Telegram-bot in development
+### *Related experience*
+* Musical Telegram-bot in development
+     
+* A [final project](https://github.com/Jayfeather7/final-turd/blob/master/index.html) of the web-programming minor
 
-     * A [final project](https://github.com/Jayfeather7/final-turd/blob/master/index.html) of the web-programming minor
-
-     * and a [stylesheet](https://github.com/Jayfeather7/final-turd/blob/master/turdstyle2.css) for the start page of the site 
+* A [stylesheet](https://github.com/Jayfeather7/final-turd/blob/master/turdstyle2.css) for the start page of the site 
 
 ### *Language level*
  * English C1 (no certificates though)
